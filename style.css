@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    background-color: #8ed0ee;
+    padding: 8px;
+}
+
+img {
+    width: 100px;
+    position: absolute;
+    top: 60px;
+    right: 40px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table th, table td {
+    padding: 5px 10px;
+}
+
+.listener {
+    font-weight: bold;
+}
